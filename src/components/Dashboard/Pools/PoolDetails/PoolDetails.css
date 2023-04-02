@@ -1,0 +1,23 @@
+.pd-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pd-img {
+    height: 30%;
+}
+.pd-img:hover {
+    transform: scale(1.03);
+    cursor:default;
+    box-shadow: 5px 5px 5px rgba(143, 140, 140, 0.74);
+}
+.pd-users-div {
+    margin: 2vh 0;
+}
+.pd-heading {
+    font-size: 2rem;
+    font-family: 'ManropeBold';
+    text-align: center;
+    border-bottom: 2px solid rgb(78, 230, 179);
+    color: #ffff;
+}

@@ -1,0 +1,58 @@
+.cp-par-div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cp-div {
+    margin: 0 3vw;
+    width: 60vw;
+}
+.cp-heading {
+    font-size: 2rem;
+    font-family: 'ManropeBold';
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.cp-form {
+    margin: 5vh 0;
+    overflow: auto;
+}
+.ant-form-item-required {
+    color: rgb(255, 255, 255) !important;
+    font-family: 'ManropeMedium';
+    font-size: 1.2rem;
+}
+.ant-input {
+    background-color: rgb(48, 49, 51);
+    border-radius: 0.5vw;
+}
+.ant-input-status-success {
+    color: white;
+}
+.ant-input-number-input {
+    background-color: rgb(48, 49, 51);
+    color: white;
+    border-radius: 0.5vw;
+}
+.ant-input-number-input-status-error {
+    background-color: rgb(48, 49, 51) !important;
+    color: white;
+}
+.ant-input-status-error {
+    background-color: rgb(48, 49, 51) !important;
+}
+.cp-submit-form-item {
+    padding: 5vh 0;
+}
+.cp-submit-btn {
+    border-radius: 0.5vw;
+    background-color: #0045cf;
+    border-color: #0045cf;
+    font-family: 'ManropeMedium';
+    font-size: 0.9rem;
+}
+.cp-submit-btn:hover {
+    background-color: #2e65d3;
+    border-color: #2e65d3;
+}
