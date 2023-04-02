@@ -27,21 +27,6 @@ Core features we are planning to include in this project.
 - This platform will allow a group of individuals to mark an exclusive right over expensive NFTs.
 - The current platforms which allow forming groups (like gnosis) and depositing funds is not community friendly. They are more like safe of funds and also the NFT rights handling issue is yet to be solved by them.
 
-## Address Directory
-
----
-
-Phineas And Ferb NFT Collection Address: 0x629c409342a75eb99baB17e2FaEB4040AAD524D2 
-
-Code: [here](https://mumbai.polygonscan.com/address/0x629c409342a75eb99baB17e2FaEB4040AAD524D2#code)
-
-MarketPlace Contract Address: 0x091f29981DbC5f59380a7A6a008c18EF06FDb6CC 
-
-Code: [here](https://mumbai.polygonscan.com/address/0x091f29981DbC5f59380a7A6a008c18EF06FDb6CC#code)
-
-Pools Manager Contract Address: 0xAC1d35E6777A719Be65BB416bE261eDF950D3928 
-
-Code: [here](https://mumbai.polygonscan.com/address/0xAC1d35E6777A719Be65BB416bE261eDF950D3928#code)
 
 ## Further thoughts
 
